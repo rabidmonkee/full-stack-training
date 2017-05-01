@@ -1,0 +1,267 @@
+{
+  "main": {
+    "name":"Brad Garner",
+    "occupation":"Front End Web Developer",
+    "description":"I create pixel-perfect websites for Fortune 500 companies using HTML5, CSS3, jQuery and other technologies.",
+    "image":"images/profilepic.jpg",
+    "bio":"Born in Tacoma, WA, I've lived in several states and 3 countries. I now call Arizona home. I'm married to a \"California girl\", and we have 2 amazing kids. I've lived a full life, including 8 years in the USAF - where I got my first overseas experience during Desert Storm - 9 years running my own photography business, and lots of stuff inbetween. I started using computers when I was 10 years old, in 1983, and never looked back from there. My first computer languages were DOS and Basic, and my first program made the computer play a song on the case speaker by varying the frequency. My current ambition is to learn React JS, and React Native, and get in on the ground floors of these technologies.",
+    "email": "brad@rabidmonkee.com",
+    "phone": "602-657-1553",
+    "address":{
+      "street":"14509 N 150th Ln",
+      "city":"Surprise",
+      "state":"AZ",
+      "zip": "85379"
+    },
+    "website": "http://www.rabidmonkee.com",
+    "resumedownload":"https://github.com/rabidmonkee/dox/blob/master/skills.txt",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/rabidmonkee",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/rabidmonkee",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/bradjgarner",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/rabidmonkee",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/rabidmonkee",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Maricopa Community College",
+        "degree":"Web Developer Certification",
+        "graduated":"September, 2012",
+        "description":"Classes consisted of PHP, MySQL, C#, and E-Commerce."
+      },
+      {
+        "school":"Collins College",
+        "degree":"A.A. Degree in Visual Communication with emphasis on Digital Multi Media Production",
+        "graduated":"November, 2001",
+        "description":"Visual Communications degree consisted of Graphic Design, Typography, Art History, Photography, Videography, Video Editing using AVID, Video Effects using AfterEffects, and Studio Photography."
+      }
+    ],
+    "work":[
+      {
+        "company":"PrizeLogic",
+        "title":"Front End Interactive Developer",
+        "years":"December 2013 - Present",
+        "description":"Utilizing resources provided to me from the Creative and Back End teams, I create responsive websites for desktop and mobile experience using HTML5, CSS3, jQuery, and a host of other technologies. We are a deadline-driven company with emphasis on pixel-perfect production sites with extremely fast turn time."
+      },
+      {
+        "company":"Corpedia",
+        "title":"Front End Developer",
+        "years":"January 2013 - December 2013",
+        "description":"Using HTML, CSS, and proprietary versions of a CSS framework, I build online corporate compliance sites for fortune 500 companies. Duties include, but not limited to, Front end developing using HTML and CSS; Video editing; Audio editing; Providing accessibility such as subtitles for video content."
+      }
+    ],
+	"skillsDescription": {
+		"text": "I'm a highly motivated, self-starting code monkey who is at home in GitHub as I am on Stack Overflow. I enjoy challening myself with new code languages, and pride myself on clean, semantic markup."
+	},
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"100%"
+      },
+	  {
+		  "name": "CSS3",
+		  "level": "100%"
+	  },
+      {
+        "name":"Sass",
+        "level":"90%"
+	  },
+	  {
+		"name":"GIT",
+		"level":"80%"
+	  },
+      {
+        "name":"jQuery",
+        "level":"75%"
+      },
+      {
+        "name":"Flexbox",
+        "level":"75%"
+	  },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"C#",
+        "level":"60%"
+	  },
+      {
+        "name":"NodeJS",
+        "level":"55%"
+	  },
+      {
+        "name":"NPM",
+        "level":"55%"
+	  },
+      {
+        "name":"Foundation",
+        "level":"50%"
+	  },
+      {
+        "name":"Bootstrap",
+        "level":"45%"
+	  },
+      {
+        "name":"ReactJS",
+        "level":"40%"
+	  },
+      {
+        "name":"React Native",
+        "level":"40%"
+	  },
+      {
+        "name":"Wordpress",
+        "level":"40%"
+      },
+      {
+        "name":"MySQL",
+        "level":"40%"
+      },
+      {
+        "name":"PHP",
+        "level":"35%"
+      },
+      {
+        "name":"Ruby",
+        "level":"20%"
+	},
+      {
+        "name":"Sublime",
+        "level":"100%"
+      },
+      {
+        "name":"Atom",
+        "level":"95%"
+      },
+  	{
+  		"name":"Adobe CC",
+  		"level":"90%"
+  	},
+      {
+        "name":"Tortoise SVN",
+        "level":"80%"
+      },
+      {
+        "name":"Windows 3.5 - 10",
+        "level":"80%"
+      },
+      {
+        "name":"MS Office 2015",
+        "level":"75%"
+      },
+      {
+        "name":"Linux - Many distros",
+        "level":"70%"
+      },
+      {
+        "name":"iOS 10",
+        "level":"70%"
+      },
+      {
+        "name":"Visual Studio 2015",
+        "level":"70%"
+      },
+      {
+        "name":"Apache",
+        "level":"30%"
+      },
+      {
+        "name":"Android Studio",
+        "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"RabidMonkee Gaming",
+        "description":"Primarily built so I could learn Foundation and the Twitch API, this is the site I call home.",
+        "category":"Web Development",
+        "tags":"Branding, Web Design, Web Development",
+        "image":"monkee.png",
+        "url":"http://www.rabidmonkee.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Select Pest Control",
+        "description":"A friend had a woefully outdated site. I used Wordpress to provide him with an updated portal for clients to view his services and contact him.",
+        "category":"Web Development",
+        "tags":"Branding, Web Design, Web Development",
+        "image":"pest.png",
+        "url":"http://selectpestcontrolaz.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Capital One",
+        "description":"Capital One Splash Page.",
+        "category":"Web Development",
+        "tags":"Web Programming",
+        "image":"capone.png",
+        "url":"https://weworkasone.capitalone.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Capital One Banking Reimagined",
+        "description":"Capital One Banking Reimagined site dedicated to the re-branding of Capital One.",
+        "category":"Web Development",
+        "tags":"Web Development",
+        "image":"caponetwo.png",
+        "url":"https://bankingreimagined.capitalone.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Johnsonville Brats First Brats Contest",
+        "description":"Social media aggragator for Johnsonville First Brats of the year photo contest.",
+        "category":"Web Development",
+        "tags":"Web Development",
+        "image":"brats.png",
+        "url":"http://firstbratscontest.prizelogic.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Chuck-E-Cheese 40th Birthday contest",
+        "description":"Enter to Win contest for Chuck-E-Cheese 40th birthday celebration.",
+        "category":"Web Development",
+        "tags":"Web Development",
+        "image":"chuck.png",
+        "url":"http://biggestbirthdayeversweeps.com",
+        "modal":"#modal-06"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"John Doe"
+      },
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"Steve Smith"
+      }
+    ]
+  }
+}
